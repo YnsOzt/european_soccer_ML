@@ -1,2 +1,2 @@
 # european_soccer_ML
-AI project for chool
+ML project for school
